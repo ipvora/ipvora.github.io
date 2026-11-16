@@ -60,3 +60,7 @@ Giá niêm yết bằng USD. Giá có thể thay đổi, hãy luôn kiểm tra t
 4. `04_trinh_duyet.md` — Cấu hình trình duyệt và trình duyệt anti-detect
 5. `05_truong_hop_su_dung.md` — Các trường hợp sử dụng và lưu ý pháp lý
 6. `06_faq.md` — Câu hỏi thường gặp và xử lý sự cố
+
+## Bài viết
+
+- [Kiểm thử bản địa hoá và xác minh quảng cáo theo khu vực bằng Playwright + proxy dân cư](https://ipvora.substack.com/p/kiem-thu-ban-ia-hoa-va-xac-minh-quang)
